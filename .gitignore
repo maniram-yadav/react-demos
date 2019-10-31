@@ -1,4 +1,6 @@
 /react-template/*
+/blog/*
+/incrementer/*
 /*/node_modules
 /*/*/node_modules
 /*/package-lock.json

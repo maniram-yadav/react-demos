@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "first",
+      "description": "first stream",
+      "id": 1
+    },
+    {
+      "title": "second",
+      "description": "Second Stream",
+      "id": 2
+    },
+    {
+      "title": "Six",
+      "description": "uiouiowio",
+      "id": 5
+    }
+  ]
+}
